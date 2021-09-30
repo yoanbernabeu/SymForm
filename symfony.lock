@@ -97,6 +97,12 @@
     "myclabs/deep-copy": {
         "version": "1.10.2"
     },
+    "nette/neon": {
+        "version": "v3.2.2"
+    },
+    "nette/utils": {
+        "version": "v3.2.5"
+    },
     "nikic/php-parser": {
         "version": "v4.13.0"
     },
@@ -579,6 +585,30 @@
     },
     "symfony/yaml": {
         "version": "v5.3.6"
+    },
+    "symplify/autowire-array-parameter": {
+        "version": "v9.3.26"
+    },
+    "symplify/composer-json-manipulator": {
+        "version": "v9.3.26"
+    },
+    "symplify/console-package-builder": {
+        "version": "v9.3.26"
+    },
+    "symplify/easy-testing": {
+        "version": "v9.3.26"
+    },
+    "symplify/package-builder": {
+        "version": "v9.3.26"
+    },
+    "symplify/smart-file-system": {
+        "version": "v9.3.26"
+    },
+    "symplify/symfony-static-dumper": {
+        "version": "v9.3.26"
+    },
+    "symplify/symplify-kernel": {
+        "version": "v9.3.26"
     },
     "theseer/tokenizer": {
         "version": "1.2.1"
