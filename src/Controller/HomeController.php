@@ -32,7 +32,7 @@ class HomeController extends AbstractController
      */
     public function __invoke(string $id): Response
     {
-        return $this->render('home/index.html.twig', [
+        return $this->render('home/show.html.twig', [
             'controller_name' => 'BlogController',
             'formations' => $this->notionService->getOne($id),
         ]);
